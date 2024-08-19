@@ -1,7 +1,24 @@
-# HamiltonApp
+# :a: Hamilton App
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.0.
 
+> [!IMPORTANT]
+> You may need these requierems for fine working app!  
+> Make sure your system and dependencies match these settings.
+> - [x] Node.js _>=v22.6.0_
+> - [x] npm _>=10.8.2_
+> - [x] Angular CLI _>=18.2.0_
+
+  
+> [!NOTE]
+> You may need these requierems for fine working app!  
+> Make sure your system and dependencies match these settings.
+> - [x] Server Side Rendering _(SSR)_
+> - [x] Static Site Generation _(SSG)_
+> - [x] i18n _(de, en, fr, ...)_
+> - [x] AppShell
+> - [x]   Tailwind CSS
+ 
 - Node.js >= v22.6.0
 - npm >= 10.8.2
 - Server Side Rendering _(SSR)_
