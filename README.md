@@ -1,21 +1,24 @@
 # :a: Hamilton App
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.0.
- 
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](tools/images/preview.png)
+
 > [!NOTE]
 > You may need these requierems for fine working app!  
 > Make sure your system and dependencies match these settings.
+>
 > - [x] Server Side Rendering _(SSR)_
 > - [x] Static Site Generation _(SSG)_
 > - [x] i18n _(de, en, fr, ...)_
 > - [x] AppShell
 > - [x] Tailwind CSS
-  
+
 ## How to use
 
 > [!IMPORTANT]
 > You may need these requierems for fine working app!  
 > Make sure your system and dependencies match these settings.
+>
 > - [x] Node.js _>=v22.6.0_
 > - [x] npm _>=10.8.2_
 > - [x] Angular CLI _>=18.2.0_
