@@ -1,7 +1,7 @@
 # :a: Hamilton App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.0.
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](tools/images/preview.png)
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.0.  
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](tools/images/preview_small.png)
 
 > [!NOTE]
 > You may need these requierems for fine working app!  
